@@ -1,1 +1,1 @@
-# eslint-plugins-arthur
+# eslint-plugins-liberty
